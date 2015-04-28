@@ -1,6 +1,6 @@
 {
   "name": "{ROOT-DASHED-NAME}/{DASHED-NAME}",
-  "description": "Error logger for Axosoft on-time.",
+  "description": "{DESCRIPTION}",
   "type": "library",
   "license": "BSD-3-Clause",
   "keywords": [
