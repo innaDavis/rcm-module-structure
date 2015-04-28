@@ -5,7 +5,6 @@
 
 namespace {ROOTNAMESPACE}\{NAMESPACE};
 
-
 /**
  * Class Module
  */
