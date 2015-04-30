@@ -6,11 +6,14 @@ A starting module for RCM using PSR4 and Composer standards.
 Replace string values with your new module values:
 
 ##### Module title:#####
-{TITLE}         
+{TITLE}
+
 - Module description:
-{DESCRIPTION}   
+{DESCRIPTION}
+
 - Company:
 {COMPANY}
+
 - Module copyright date:
 {COPYRIGHTDATE}
 - Company or root namespace:
